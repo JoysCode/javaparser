@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "test",
+    "owner": "joycode"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "test1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
